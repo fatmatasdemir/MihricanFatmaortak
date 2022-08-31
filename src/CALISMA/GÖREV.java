@@ -6,9 +6,11 @@ public class GÖREV {
 
 
         /* Ögrenci EKLEME  ======>>FATMA TASDEMIR
+        
 
         1.22
         ======>>FATMA BRANCH EKLEME
+        ======>>GITHUBDAN LOCALE
         private String ogrenciNo;
         private String sinif;
 
