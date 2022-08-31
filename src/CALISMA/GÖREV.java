@@ -33,7 +33,7 @@ BURASI BENIM GOREVIM
             super(adSoyad, kimlikNo, yas);
             this.bolum = bolum;
             this.sicilNo = sicilNo;
-
+GITHUPTAN
 
         }
 
