@@ -9,7 +9,7 @@ public class GÖREV {
         
 
      og="ZELIHA ALAGÖZ
-
+     og2="AHMET KAYA"
 
         1.22
         ======>>FATMA BRANCH EKLEME
