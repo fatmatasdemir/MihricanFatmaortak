@@ -7,7 +7,7 @@ public class GÖREV {
 
         /* Ögrenci EKLEME  ======>>FATMA TASDEMIR
 
-        1.
+        1.22
         private String ogrenciNo;
         private String sinif;
 
