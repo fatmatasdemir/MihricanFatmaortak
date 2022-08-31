@@ -36,9 +36,9 @@ BURASI BENIM GOREVIM
 GITHUPTAN
 
         }
+yeniden githupa
 
 
 */
-
     }
 }
