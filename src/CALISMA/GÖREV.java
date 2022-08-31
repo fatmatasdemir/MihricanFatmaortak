@@ -2,7 +2,7 @@ package CALISMA;
 
 public class GÖREV {
 
-    public static void main(String[] args) {
+    public static <String> void main(String[] args) {
 
 
         /* Ögrenci EKLEME  ======>>FATMA TASDEMIR
@@ -31,12 +31,16 @@ public class GÖREV {
         /* ÖGRETMEN EKLEME ======>>> MIHRICAN
      public Ogretmen(){
         }
-
+BURASI BENIM GOREVIM
     public Ogretmen(String adSoyad, String kimlikNo, int yas, String bolum, String sicilNo) {
             super(adSoyad, kimlikNo, yas);
             this.bolum = bolum; fatma yazdi
             this.sicilNo = sicilNo;
             fatma githuba gonder simdi..
+
+
+GITHUPTAN
+master da ekle
 
         }
 
