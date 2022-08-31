@@ -30,6 +30,8 @@ public class GÖREV {
 
         /* ÖGRETMEN EKLEME ======>>> MIHRICAN
      public Ogretmen(){
+
+     String isim="FATMA TASDEMIR";
         }
 BURASI BENIM GOREVIM
     public Ogretmen(String adSoyad, String kimlikNo, int yas, String bolum, String sicilNo) {
@@ -43,9 +45,13 @@ GITHUPTAN
 master da ekle
 
         }
+ mihrican
+yeniden githupa
+
+
 master da
+master
 
 */
-
     }
 }
