@@ -6,8 +6,14 @@ public class GÖREV {
 
 
         /* Ögrenci EKLEME  ======>>FATMA TASDEMIR
+        
+
+     og="ZELIHA ALAGÖZ
+
 
         1.22
+        ======>>FATMA BRANCH EKLEME
+        ======>>GITHUBDAN LOCALE
         private String ogrenciNo;
         private String sinif;
 
@@ -28,7 +34,7 @@ public class GÖREV {
 
     public Ogretmen(String adSoyad, String kimlikNo, int yas, String bolum, String sicilNo) {
             super(adSoyad, kimlikNo, yas);
-            this.bolum = bolum;
+            this.bolum = bolum; fatma yazdi
             this.sicilNo = sicilNo;
             fatma githuba gonder
 
