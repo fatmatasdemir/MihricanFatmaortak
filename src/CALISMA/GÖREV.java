@@ -8,6 +8,9 @@ public class GÖREV {
         /* Ögrenci EKLEME  ======>>FATMA TASDEMIR
         
 
+     og="ZELIHA ALAGÖZ
+
+
         1.22
         ======>>FATMA BRANCH EKLEME
         ======>>GITHUBDAN LOCALE
