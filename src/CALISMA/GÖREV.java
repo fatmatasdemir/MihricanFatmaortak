@@ -8,6 +8,9 @@ public class GÖREV {
         /* Ögrenci EKLEME  ======>>FATMA TASDEMIR
         
 
+     og="ZELIHA ALAGÖZ
+     og2="AHMET KAYA"
+
         1.22
         ======>>FATMA BRANCH EKLEME
         ======>>GITHUBDAN LOCALE
@@ -33,13 +36,21 @@ public class GÖREV {
 BURASI BENIM GOREVIM
     public Ogretmen(String adSoyad, String kimlikNo, int yas, String bolum, String sicilNo) {
             super(adSoyad, kimlikNo, yas);
-            this.bolum = bolum;
+            this.bolum = bolum; fatma yazdi
             this.sicilNo = sicilNo;
+            fatma githuba gonder simdi..
+
+
 GITHUPTAN
+master da ekle
 
         }
+ mihrican
 yeniden githupa
 
+
+master da
+master
 
 */
     }
