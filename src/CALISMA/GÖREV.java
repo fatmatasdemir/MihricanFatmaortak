@@ -30,7 +30,7 @@ public class GÖREV {
             super(adSoyad, kimlikNo, yas);
             this.bolum = bolum;
             this.sicilNo = sicilNo;
-
+            fatma githuba gonder
 
         }
 
