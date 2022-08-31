@@ -34,7 +34,7 @@ BURASI BENIM GOREVIM
             this.bolum = bolum;
             this.sicilNo = sicilNo;
 GITHUPTAN
-
+master da ekle
         }
 
 
