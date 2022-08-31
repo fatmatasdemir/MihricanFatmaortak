@@ -36,7 +36,7 @@ public class GÖREV {
             super(adSoyad, kimlikNo, yas);
             this.bolum = bolum; fatma yazdi
             this.sicilNo = sicilNo;
-            fatma githuba gonder
+            fatma githuba gonder simdi
 
         }
 
